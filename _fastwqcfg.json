@@ -1,0 +1,153 @@
+{
+    "1000_last": 1555424123593,
+    "1555424123593": {
+        "def": 0,
+        "list": [
+            {
+                "fields": [
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Id",
+                        "fld_ord": 0,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Word",
+                        "fld_ord": 1,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": true
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Transcription",
+                        "fld_ord": 2,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Part of Speech",
+                        "fld_ord": 3,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Definition",
+                        "fld_ord": 4,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Example",
+                        "fld_ord": 5,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Example Cloze",
+                        "fld_ord": 6,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Image",
+                        "fld_ord": 7,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Word Audio",
+                        "fld_ord": 8,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Audio Pronunciation",
+                        "dict_fld_ord": 0,
+                        "dict_name": "Baicizhan",
+                        "dict_unique": "Baicizhan",
+                        "fld_name": "Example Audio",
+                        "fld_ord": 9,
+                        "ignore": true,
+                        "skip_valued": true,
+                        "word_checked": false
+                    },
+                    {
+                        "cloze_word": false,
+                        "dict_fld_name": "Default",
+                        "dict_fld_ord": 0,
+                        "dict_name": "mtBab EV",
+                        "dict_unique": "0f5039a54b950f82ca5e6a004f9f0134",
+                        "fld_name": "Vietnam",
+                        "fld_ord": 10,
+                        "ignore": false,
+                        "skip_valued": true,
+                        "word_checked": false
+                    }
+                ],
+                "name": "Config 1"
+            }
+        ]
+    },
+    "dirs": [
+        "E:/OneDrive - Đại học FPT- FPT University/install/Anki/English-Vietnamese Dictionary and Media/English-Vietnamese Dictionary and Media/English_Vietnamese_Dictionary"
+    ],
+    "export_media": false,
+    "last_folder": "E:/OneDrive - Đại học FPT- FPT University/install/Anki/English-Vietnamese Dictionary and Media/English-Vietnamese Dictionary and Media/English_Vietnamese_Dictionary",
+    "last_model": 1555424123593,
+    "use_filename": true,
+    "version": "v2.0.0b"
+}
